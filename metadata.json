@@ -1,0 +1,23 @@
+{
+  "name": "MAT Token",
+  "symbol": "MAT",
+  "description": "My awesome MAT token",
+  "seller_fee_basis_points": 500,
+  "image": "https://github.com/Piah361/MatChain/blob/main/Mat%20512X512.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/Piah361/MatChain/blob/main/Mat%20512X512.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "matnAcVMUS4bacEvtTwdcS5eAypL9cmRgd18xoK1wuq",
+        "share": 100
+      }
+    ]
+  }
+}
